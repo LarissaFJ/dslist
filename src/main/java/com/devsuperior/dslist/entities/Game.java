@@ -1,4 +1,4 @@
-package com.devsuperior.dslistentities;
+package com.devsuperior.dslist.entities;
 
 import jakarta.persistence.*;
 
